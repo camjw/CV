@@ -1,4 +1,4 @@
-## Your Name
+## Cameron Whitehead
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -34,10 +34,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Oxford (Sep 2012 - Jun 2016)
 
-- Subject, any specialisms
-- Grade
+- Studied Mathematics.
+- Received first class honours for BA and MMath in Mathematics and graduated in the top ten of my year. 
+- I also received a first in my dissertation and was offered a D.Phil place at Oxford to continue in academia.
 - Other cool stuff
 
 #### Any other qualifications
