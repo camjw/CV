@@ -1,8 +1,6 @@
 ## Cameron Whitehead
 
-My name is Cameron Whitehead and today I'm here to ask for gainful employment in return for 100% of my working time. I've previously worked in financial services and the public sector. 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+My name is Cameron Whitehead and I'm a highly analytical and driven student programmer with a first in an MMath from the University of Oxford. I've previously worked in financial services and HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
 
 ## Skills
 
@@ -27,14 +25,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (Sep 2018 to Dec 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+I recieved a fellowship to Makers Academy, which is a 12 week intensive coding bootcamp focussing on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Git
 
 #### University of Oxford (Sep 2012 - Jun 2016)
 
