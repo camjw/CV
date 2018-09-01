@@ -1,8 +1,15 @@
-## Cameron Whitehead
+# Cameron Whitehead
 
 My name is Cameron Whitehead and I'm a highly analytical and driven student programmer with a first in an MMath from the University of Oxford. I've previously worked in financial services and HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
 
 ## Skills
+
+#### Self directed learner
+
+- I took the initiative to learn VBA at HM Treasury and used this to automate project management work for my department. This saved approximately a days worth of work a week and produced a higher quality document than previous methods.
+- I also learned some Python, particularly the Pandas package, while working in financial services, just by following online courses. I used this to create better analytical reports faster.
+- Before starting at Makers I wrote a simple connect four game in Ruby, which can be found [here](https://github.com/camjw/connect_four).
+
 
 #### Problem solving
 
@@ -12,14 +19,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Logical thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Strong communicator
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- While at HM Treasury I was responsible for drafting advice to ministers and senior officials, correspondence to foreign heads of state, and FOIs from members of the public.
+- I recieved firsts for an extended essay and dissertation I wrote in my third and fourth year of university, respectively.
+- In my previous role I was required to communicate complex, financially sensitive information quickly over the phone to brokers who may not have English as a first language.
+
 
 ## Education
 
