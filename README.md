@@ -45,14 +45,12 @@ I recieved a fellowship to Makers Academy, which is a 12 week intensive coding b
 - I proactively developed several products for the desk to improve our efficiency (e.g. an automatic alert when liquidity dropped for selected securities). For this I almost exclusively used Python and was entirely self-directed. 
 - I also used TensorFlow to write an AI which would decide whether to hold a security or not but, unsurprisingly, it was not particularly accurate. 
 
-**HM Treasury** (Apr 2017 - Nov 2017)
-
+**HM Treasury** (Apr 2017 - Nov 2017)    
 *Policy Adviser*
 - My role was in the Financial Services group on EU strategy, responsible for Crown Dependencies and Overseas Territories market access policy.
 - I also project managed 12 cross-cutting work streams across the Financial Services group.
 
-**Universität Stuttgart** (Jun 2015 - Aug 2015)
-
+**Universität Stuttgart** (Jun 2015 - Aug 2015)    
 *Research Assistant*
 - Recieved funding to work on an original problem related to the representation theory of orthogonal groups. Solved it by the end of my time in Stuttgart.
 
