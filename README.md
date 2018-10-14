@@ -1,6 +1,15 @@
 # Cameron Whitehead
 
-My name is Cameron Whitehead and I'm a highly analytical and driven student programmer with a first in an MMath from the University of Oxford. I've previously worked in financial services and HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
+My name is Cameron Whitehead and I'm a highly analytical and driven student programmer with a first in an MMath from the University of Oxford. I've previously worked in financial services and at HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
+
+
+## Selected projects 
+
+| Project | Description | 
+|---|---|
+| [Connect Four](https://github.com/camjw/connect_four)  | A Connect Four game I wrote before starting Makers, which I later went updated with unit tests and implemented Travis CI.  | 
+|   |   | 
+|   |   | 
 
 ## Skills
 
