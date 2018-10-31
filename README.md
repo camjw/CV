@@ -1,16 +1,16 @@
 # Cameron Whitehead
 
-My name is Cameron Whitehead and I'm a highly analytical and driven student programmer with a first in an MMath from the University of Oxford. I've previously worked in financial services and at HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
+My name is Cameron Whitehead and I'm a highly analytical and driven software developer with a first in an MMath from the University of Oxford. I've previously worked in financial services and at HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
 
 
 ## Selected projects 
 
-| Project | Description | 
-|---|---|
-| [Connect Four](https://github.com/camjw/connect_four)  | A Connect Four game I wrote before starting Makers, which I later went updated with unit tests and implemented Travis CI.  | 
-| [Huge Quiz](https://github.com/camjw/connect_four)  | A quiz app I made to get more familiar with PostgresQL. I ended up deploying this to Heroku, which was a great learning experience - though the app is vulnerable to SQL injection attacks. | 
-| [MakersBnB](https://github.com/shinyverse/MakersBnB) | I worked as part of a team to make a clone or AirBnB. This was our first time using MongoDB and our first major Javascript project, but we all enjoyed the experience and I learned a lot about making (and interfacing asynchronously with) APIs in Javascript. | 
-| [CartPole](https://www.github.com/camjw/CartPole) | I solved the 'CartPole-v0' problem set by OpenAI [here](https://gym.openai.com/envs/CartPole-v0/). I found the project especially interesting, and plan to use TensorFlow to make an AI for my Connect Four game.|
+| Project | Project type | Description | 
+|---|---|---|
+| [Connect Four](https://github.com/camjw/connect_four) | Individual project | A Connect Four game I wrote before starting Makers, which I later went updated with unit tests and implemented Travis CI.  | 
+| [Huge Quiz](https://github.com/camjw/connect_four)  | Individual project | A quiz app I made to get more familiar with PostgresQL. I ended up deploying this to Heroku, which was a great learning experience - though the app is vulnerable to SQL injection attacks. | 
+| [MakersBnB](https://github.com/shinyverse/MakersBnB) | Team project | I worked as part of a team to make a clone or AirBnB. This was our first time using MongoDB and our first major Javascript project, but we all enjoyed the experience and I learned a lot about making (and interfacing asynchronously with) APIs in Javascript. | 
+| [CartPole](https://www.github.com/camjw/CartPole) | Individual project | I solved the 'CartPole-v0' problem set by OpenAI [here](https://gym.openai.com/envs/CartPole-v0/). I found the project especially interesting, and plan to use TensorFlow to make an AI for my Connect Four game.|
 
 ## Skills
 
@@ -18,7 +18,7 @@ My name is Cameron Whitehead and I'm a highly analytical and driven student prog
 
 - While at HM Treasury I was responsible for drafting advice to ministers and senior officials, correspondence to foreign heads of state, and FOIs from members of the public.
 - I recieved firsts for an extended essay and dissertation I wrote in my third and fourth year of university, respectively.
-- In my previous role I was required to communicate complex, financially sensitive information quickly over the phone to brokers who may not have English as a first language.
+- In my previous role I was required to communicate complex, financially sensitive information quickly over the phone to brokers who may not have English as a first language. 
 
 
 #### Self directed learning
@@ -37,36 +37,38 @@ My name is Cameron Whitehead and I'm a highly analytical and driven student prog
 
 #### Makers Academy (Sep 2018 to Dec 2018)
 
-I recieved a fellowship to Makers Academy, which is a 12 week intensive coding bootcamp focussing on:
+I received a fellowship to Makers Academy, which is a 12 week intensive coding bootcamp focussing on web development. While I was there I used:
 
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Git
+- Ruby, Rails, JavaScript, Express
+- RSpec, Jasmine
 
 #### University of Oxford (Sep 2012 - Jun 2016)
 
-- Studied Mathematics and took mostly algebra modules.
+- Studied Mathematics and took mostly algebra modules (not a great conversation starter). 
 - Received first class honours for BA and MMath in Mathematics and graduated in the top ten of my year. I was offered a funded D.Phil place. 
-- In my fourth year I wrote a dissertation for which I recieved a first. 
+- In my fourth year I wrote a dissertation for which I received a first. 
 
 
 ## Experience
 
 **Mako Global Derivatives** (Nov 2017 - Jun 2018)    
 *Trainee trader* 
-- I worked on the Short Term Interest Rates options desk.
+- I worked on the Short Term Interest Rates options desk (also not a great conversation starter).
 - I proactively developed several products for the desk to improve our efficiency (e.g. an automatic alert when liquidity dropped for selected securities). For this I almost exclusively used Python and was entirely self-directed. 
 - I also used TensorFlow to write an AI which would decide whether to hold a security or not but, unsurprisingly, it was not particularly accurate. 
 
 **HM Treasury** (Apr 2017 - Nov 2017)    
 *Policy Adviser*
-- My role was in the Financial Services group on EU strategy, responsible for Crown Dependencies and Overseas Territories market access policy.
+- My role was in the Financial Services group on EU strategy, responsible for Crown Dependencies and Overseas Territories market access policy. I did a lot of Brexit-y stuff.
 - I also project managed 12 cross-cutting work streams across the Financial Services group.
 
 **Universität Stuttgart** (Jun 2015 - Aug 2015)    
 *Research Assistant*
-- Recieved funding to work on an original problem related to the representation theory of orthogonal groups. Solved it by the end of my time in Stuttgart.
+- Received funding to work on an original problem related to the representation theory of orthogonal groups. Solved it by the end of my time in Stuttgart. Funnily enough, people don't seem too keen to talk about this...
 
 
 ### Interests
 
-- Cooking, eating, running
+- My main hobby is cooking, and recently I've started fermenting things (not everyone is as pleased about this as I am). Tied into my enjoyment of cooking is eating.
+- I listen to a lot of music, my favorite artists are Fat Freddy's Drop, Radiohead and, recently, Jon Hopkins. 
+- My favorite TV show is Arrested Development.
