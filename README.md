@@ -9,6 +9,7 @@ My name is Cameron Whitehead and I'm a highly analytical and driven software dev
 |---|---|---|---|
 | [Connect Four](https://github.com/camjw/connect_four) | Individual project | Ruby, RSpec | A Connect Four game I wrote before starting Makers, which I later went updated with unit tests and implemented Travis CI.  | 
 | [Huge Quiz](https://github.com/camjw/connect_four)  | Individual project | Ruby, PostgreSQL, RSpec, Capybara | A quiz app I made to get more familiar with PostgresQL. I ended up deploying this to Heroku, which was a great learning experience - though the app is vulnerable to SQL injection attacks. | 
+| [Tic-Tac-Go](https://github.com/camjw/tic-tac-go) | Indivdual project | Go | A tic-tac-toe game I made in Go with an 'AI' which uses the Minimax algorithm to select its next move | 
 | [MakersBnB](https://github.com/shinyverse/MakersBnB) | Team project | JavaScript, Node.js, MongoDB, Jasmine, Chai | I worked as part of a team to make a clone or AirBnB. This was our first time using MongoDB and our first major Javascript project, but we all enjoyed the experience and I learned a lot about making (and interfacing asynchronously with) APIs in Javascript. | 
 | [CartPole](https://www.github.com/camjw/CartPole) | Individual project | Python, TensorFlow | I solved the 'CartPole-v0' problem set by OpenAI [here](https://gym.openai.com/envs/CartPole-v0/). I found the project especially interesting, and plan to use TensorFlow to make an AI for my Connect Four game.|
 
