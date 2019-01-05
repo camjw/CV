@@ -2,7 +2,7 @@
 
 My name is Cameron Whitehead and I'm a highly analytical and driven software developer with a first in an MMath from the University of Oxford. I've previously worked in financial services and at HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
 
-[Projects](#selected-projects) [Skills](#skills) [Education](#education) [Experience](#experience) [Interests](#interests)
+[Projects](#selected-projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Selected projects 
 
