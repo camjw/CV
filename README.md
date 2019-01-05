@@ -2,16 +2,17 @@
 
 My name is Cameron Whitehead and I'm a highly analytical and driven software developer with a first in an MMath from the University of Oxford. I've previously worked in financial services and at HM Treasury, and I'm now looking for a job where I can use what I've learned at Makers Academy to solve interesting problems and work with interesting people. 
 
+[Projects](#selected-projects) [Skills](#skills) [Education](#education) [Experience](#experience) [Interests](#interests)
 
 ## Selected projects 
 
-| Project | Project type | Technologies | Description | 
+| Project | Project type | Technologies | Timeframe | Description | 
 |---|---|---|---|
-| [Connect Four](https://github.com/camjw/connect_four) | Individual project | Ruby, RSpec | A Connect Four game I wrote before starting Makers, which I later went updated with unit tests and implemented Travis CI.  | 
-| [Huge Quiz](https://github.com/camjw/connect_four)  | Individual project | Ruby, PostgreSQL, RSpec, Capybara | A quiz app I made to get more familiar with PostgreSQL. I ended up deploying this to Heroku, which was a great learning experience - though the app is vulnerable to SQL injection attacks. | 
-| [Tic-Tac-Go](https://github.com/camjw/tic-tac-go) | Indivdual project | Go | A tic-tac-toe game I made in Go with an 'AI' which uses the Minimax algorithm to select its next move | 
-| [MakersBnB](https://github.com/shinyverse/MakersBnB) | Team project | JavaScript, Node.js, MongoDB, Jasmine, Chai | I worked as part of a team to make a clone or AirBnB. This was our first time using MongoDB and our first major Javascript project, but we all enjoyed the experience and I learned a lot about making (and interfacing asynchronously with) APIs in Javascript. | 
-| [CartPole](https://www.github.com/camjw/CartPole) | Individual project | Python, TensorFlow | I solved the 'CartPole-v0' problem set by OpenAI [here](https://gym.openai.com/envs/CartPole-v0/). I found the project especially interesting, and plan to use TensorFlow to make an AI for my Connect Four game.|
+| [Snake](https://github.com/camjw/S-DL2-nake)  | Individual project | C++, SDL2, GoogleTest, GoogleMock | One month (over Christmas) | A version of Snake made using SDL2 and some extension libraries. My first project using C++ which is a language I now particularly like. | 
+| [Tic-Tac-Go](https://github.com/camjw/tic-tac-go) | Indivdual project | Go | 10 days | A tic-tac-toe game I made in Go with an 'AI' which uses the Minimax algorithm to select its next move | 
+| [Robot Pong](https://github.com/JonathanAndrews/robot_pong) | Team project | Python, Tensorflow, Javascript, Node, Tensorflow.js, Unittest, Jest| 10 days | Final project at Makers, we built an AI to play the game Pong as well as a version of Pong from scratch in Python and Javascript. I was responsible for the majority of the Python and designed the AI and its training programme. |
+| [MakersBnB](https://github.com/shinyverse/MakersBnB) | Team project | JavaScript, Node.js, MongoDB, Jasmine, Chai | 5 days | I worked as part of a team to make a clone or AirBnB. This was our first time using MongoDB and our first major Javascript project, but we all enjoyed the experience and I learned a lot about making (and interfacing asynchronously with) APIs in Javascript. | 
+| [CartPole](https://www.github.com/camjw/CartPole) | Individual project | Python, TensorFlow | One month | I solved the 'CartPole-v0' problem set by OpenAI [here](https://gym.openai.com/envs/CartPole-v0/). I found the project especially interesting, and plan to use TensorFlow to make an AI for my Connect Four game.|
 
 ## Skills
 
