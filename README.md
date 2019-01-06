@@ -7,7 +7,7 @@ My name is Cameron Whitehead and I'm a highly analytical and driven software dev
 ## Selected projects 
 
 | Project | Project type | Technologies | Timeframe | Description | 
-|---|---|---|---|
+|---|---|---|---|---|
 | [Snake](https://github.com/camjw/S-DL2-nake)  | Individual project | C++, SDL2, GoogleTest, GoogleMock | One month (over Christmas) | A version of Snake made using SDL2 and some extension libraries. My first project using C++ which is a language I now particularly like. | 
 | [Tic-Tac-Go](https://github.com/camjw/tic-tac-go) | Indivdual project | Go | 10 days | A tic-tac-toe game I made in Go with an 'AI' which uses the Minimax algorithm to select its next move | 
 | [Robot Pong](https://github.com/JonathanAndrews/robot_pong) | Team project | Python, Tensorflow, Javascript, Node, Tensorflow.js, Unittest, Jest| 10 days | Final project at Makers, we built an AI to play the game Pong as well as a version of Pong from scratch in Python and Javascript. I was responsible for the majority of the Python and designed the AI and its training programme. |
